@@ -1,2 +1,3 @@
-<h1> Hello World! </h>
-<p> My ame is eafpres </p>
+Thank you for visiting
+My name is Blaine Bateman
+My company is EAF LLC
